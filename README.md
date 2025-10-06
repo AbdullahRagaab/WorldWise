@@ -67,10 +67,10 @@ This repository is a learning/demo project. If you plan to extend it:
 If you'd like, I can also add a CI badge, tests, or a short development checklist.
 
 
-<img width="1329" height="618" alt="Image" src="https://github.com/user-attachments/assets/bafa8e58-7926-4ec9-8762-60c540908aed" />
 <img width="1261" height="596" alt="Image" src="https://github.com/user-attachments/assets/e005b546-478c-4e04-b821-92f2dcbd5148" />
 <img width="1272" height="598" alt="Image" src="https://github.com/user-attachments/assets/f0925605-4310-41ce-904e-c098d31505d5" />
 <img width="1283" height="573" alt="Image" src="https://github.com/user-attachments/assets/51a2187e-7164-42eb-a317-796c5c351edd" />
 <img width="1317" height="610" alt="Image" src="https://github.com/user-attachments/assets/eb8ac538-e88d-490a-92d9-198190006cd1" />
 <img width="1336" height="617" alt="Image" src="https://github.com/user-attachments/assets/56a324df-fa43-4783-a295-574ab42b139b" />
 <img width="1331" height="622" alt="Image" src="https://github.com/user-attachments/assets/c07246bc-20ed-4211-9919-ebc40f97ae73" />
+<img width="1329" height="618" alt="Image" src="https://github.com/user-attachments/assets/bafa8e58-7926-4ec9-8762-60c540908aed" />
