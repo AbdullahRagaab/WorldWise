@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "fe15",
+      "cityName": "Portugal",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2025-04-14T08:11:57.059Z",
+      "notes": "good\n",
+      "position": {
+        "lat": "38.34165619279595",
+        "lng": "-8.876953125000002"
+      }
+    },
+    {
+      "id": "2f1d",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-04-14T09:37:50.974Z",
+      "notes": "",
+      "position": {
+        "lat": "48.817715668996435",
+        "lng": "2.3620605468750004"
+      }
+    },
+    {
+      "id": "8a2a",
+      "cityName": "Abu Ḩammad",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-04-14T10:50:25.848Z",
+      "notes": "",
+      "position": {
+        "lat": "30.475492529541974",
+        "lng": "31.63925170898438"
+      }
+    },
+    {
+      "id": "7421",
+      "cityName": "Sharm el-Sheikh",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-10-06T21:25:42.658Z",
+      "notes": "Sharm el-Sheikh is the best tourist city",
+      "position": {
+        "lat": "27.916766641249065",
+        "lng": "34.18945312500001"
+      }
+    }
+  ]
+}
