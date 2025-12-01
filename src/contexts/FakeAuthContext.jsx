@@ -31,10 +31,15 @@ function AuthProvider({ children }) {
     initialState
   );
 
-  function login(email, password) {
-    if (email === FAKE_USER.email && password === FAKE_USER.password)
-      dispatch({ type: "login", payload: FAKE_USER });
-  }
+function login(email, password) {
+  const user = {
+    name: email.split("@")[0],
+    email,
+    avatar: `https://i.pravatar.cc/100?u=${email}`,
+  };
+  dispatch({ type: "login", payload: user });
+}
+
 
   function logout() {
     dispatch({ type: "logout" });
